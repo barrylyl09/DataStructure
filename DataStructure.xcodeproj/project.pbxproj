@@ -11,6 +11,7 @@
 		246AD3341E70DCF300B8474B /* 多项式计算.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3331E70DCF300B8474B /* 多项式计算.c */; };
 		246AD3361E70DFDF00B8474B /* Clock_tick.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3351E70DFDF00B8474B /* Clock_tick.c */; };
 		246AD33D1E71425700B8474B /* 灯颜色问题.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD33C1E71425700B8474B /* 灯颜色问题.c */; };
+		246AD33F1E7143C300B8474B /* 比较版本号问题-OC版.m in Sources */ = {isa = PBXBuildFile; fileRef = 246AD33E1E7143C300B8474B /* 比较版本号问题-OC版.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		246AD3331E70DCF300B8474B /* 多项式计算.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "多项式计算.c"; sourceTree = "<group>"; };
 		246AD3351E70DFDF00B8474B /* Clock_tick.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Clock_tick.c; sourceTree = "<group>"; };
 		246AD33C1E71425700B8474B /* 灯颜色问题.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "灯颜色问题.c"; sourceTree = "<group>"; };
+		246AD33E1E7143C300B8474B /* 比较版本号问题-OC版.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "比较版本号问题-OC版.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				246AD3331E70DCF300B8474B /* 多项式计算.c */,
 				246AD3351E70DFDF00B8474B /* Clock_tick.c */,
 				246AD33C1E71425700B8474B /* 灯颜色问题.c */,
+				246AD33E1E7143C300B8474B /* 比较版本号问题-OC版.m */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			files = (
 				246AD3361E70DFDF00B8474B /* Clock_tick.c in Sources */,
 				246AD3341E70DCF300B8474B /* 多项式计算.c in Sources */,
+				246AD33F1E7143C300B8474B /* 比较版本号问题-OC版.m in Sources */,
 				246AD32A1E70DC9F00B8474B /* main.c in Sources */,
 				246AD33D1E71425700B8474B /* 灯颜色问题.c in Sources */,
 			);
@@ -258,6 +262,7 @@
 				246AD32F1E70DC9F00B8474B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
