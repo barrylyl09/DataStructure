@@ -23,11 +23,10 @@ Here is an example of version numbers ordering:
 ```
  */
 
-
 /**
  @return 如果版本号相等返回0，第一个版本号高于第二个，返回1，否则返回 -1.
  自己写的，如果有不完善的地方，欢迎指正。
-
+ 
 - (int)compareVersion:(NSString *)version1 andVersion:(NSString *)version2
 {
     int res = 0;
