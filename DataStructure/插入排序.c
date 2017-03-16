@@ -7,3 +7,12 @@
 //
 
 #include <stdio.h>
+int* insertionSort(int* A, int n) {
+    for(int i=0; i<n; i++) {
+        for(int j=i; j>0; j--) {
+            if(A[j]<A[j-1]) swap(A[j],A[j-1]);
+        }
+    }
+    
+    return A;
+}
