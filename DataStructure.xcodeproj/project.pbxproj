@@ -12,6 +12,7 @@
 		240BA8261E76FFC60049615A /* 选择排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 240BA8251E76FFC60049615A /* 选择排序.c */; };
 		240BA8281E76FFDC0049615A /* 插入排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 240BA8271E76FFDC0049615A /* 插入排序.c */; };
 		240BA82A1E76FFED0049615A /* 归并排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 240BA8291E76FFED0049615A /* 归并排序.c */; };
+		243D13531E860E7900FB0717 /* 快速排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 243D13521E860E7900FB0717 /* 快速排序.c */; };
 		246AD32A1E70DC9F00B8474B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3291E70DC9F00B8474B /* main.c */; };
 		246AD3341E70DCF300B8474B /* 多项式计算.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3331E70DCF300B8474B /* 多项式计算.c */; };
 		246AD3361E70DFDF00B8474B /* Clock_tick.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3351E70DFDF00B8474B /* Clock_tick.c */; };
@@ -36,6 +37,7 @@
 		240BA8251E76FFC60049615A /* 选择排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "选择排序.c"; sourceTree = "<group>"; };
 		240BA8271E76FFDC0049615A /* 插入排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "插入排序.c"; sourceTree = "<group>"; };
 		240BA8291E76FFED0049615A /* 归并排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "归并排序.c"; sourceTree = "<group>"; };
+		243D13521E860E7900FB0717 /* 快速排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "快速排序.c"; sourceTree = "<group>"; };
 		246AD3261E70DC9F00B8474B /* DataStructure */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataStructure; sourceTree = BUILT_PRODUCTS_DIR; };
 		246AD3291E70DC9F00B8474B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		246AD3331E70DCF300B8474B /* 多项式计算.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "多项式计算.c"; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				240BA8251E76FFC60049615A /* 选择排序.c */,
 				240BA8271E76FFDC0049615A /* 插入排序.c */,
 				240BA8291E76FFED0049615A /* 归并排序.c */,
+				243D13521E860E7900FB0717 /* 快速排序.c */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				243D13531E860E7900FB0717 /* 快速排序.c in Sources */,
 				246AD3361E70DFDF00B8474B /* Clock_tick.c in Sources */,
 				240BA82A1E76FFED0049615A /* 归并排序.c in Sources */,
 				246AD3341E70DCF300B8474B /* 多项式计算.c in Sources */,

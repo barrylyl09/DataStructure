@@ -1,8 +1,8 @@
 //
-//  归并排序.c
+//  快速排序.c
 //  DataStructure
 //
-//  Created by lyl on 2017/3/14.
+//  Created by lyl on 2017/3/25.
 //  Copyright © 2017年 lyl. All rights reserved.
 //
 
@@ -10,5 +10,5 @@
 
 int main ()
 {
-    return 0;
+    return 1111;
 }
