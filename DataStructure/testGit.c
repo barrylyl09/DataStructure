@@ -7,3 +7,16 @@
 //
 
 #include <stdio.h>
+
+int main()
+{
+    for(int i = 0; i<99; i++) {
+        printf("%d\n",i);
+    }
+    
+    for(int m = 0; m<99; m++) {
+        printf("====%d\n",m);
+    }
+    
+    return 0;
+}
