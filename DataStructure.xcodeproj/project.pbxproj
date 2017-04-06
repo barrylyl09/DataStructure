@@ -17,6 +17,7 @@
 		246AD3341E70DCF300B8474B /* 多项式计算.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3331E70DCF300B8474B /* 多项式计算.c */; };
 		246AD3361E70DFDF00B8474B /* Clock_tick.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3351E70DFDF00B8474B /* Clock_tick.c */; };
 		246AD33D1E71425700B8474B /* 灯颜色问题.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD33C1E71425700B8474B /* 灯颜色问题.c */; };
+		2481F7B91E968BBF0068BCD0 /* 堆排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 2481F7B81E968BBF0068BCD0 /* 堆排序.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		246AD3331E70DCF300B8474B /* 多项式计算.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "多项式计算.c"; sourceTree = "<group>"; };
 		246AD3351E70DFDF00B8474B /* Clock_tick.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Clock_tick.c; sourceTree = "<group>"; };
 		246AD33C1E71425700B8474B /* 灯颜色问题.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "灯颜色问题.c"; sourceTree = "<group>"; };
+		2481F7B81E968BBF0068BCD0 /* 堆排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "堆排序.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				240BA8271E76FFDC0049615A /* 插入排序.c */,
 				240BA8291E76FFED0049615A /* 归并排序.c */,
 				243D13521E860E7900FB0717 /* 快速排序.c */,
+				2481F7B81E968BBF0068BCD0 /* 堆排序.c */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2481F7B91E968BBF0068BCD0 /* 堆排序.c in Sources */,
 				243D13531E860E7900FB0717 /* 快速排序.c in Sources */,
 				246AD3361E70DFDF00B8474B /* Clock_tick.c in Sources */,
 				240BA82A1E76FFED0049615A /* 归并排序.c in Sources */,
