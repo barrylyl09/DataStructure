@@ -8,7 +8,11 @@
 
 #include <stdio.h>
 
+void fastSort(int *A[], int N) {
+    
+}
+
 int main ()
 {
-    return 1111;
+    return 123456;
 }

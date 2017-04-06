@@ -21,7 +21,7 @@ void adjust(int A[],int i,int n){//对A中得前N个元素从第1个元素开始
     A[i]=j;
 }
 void Heapsort(int A[],int n){
-    //建立最大堆
+    //建立最大堆 ---
     for(int i=(n-1)/2;i>=0;i--){//从有儿子得最后一个节点开始
         adjust(A,i,n);
     }
