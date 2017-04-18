@@ -37,3 +37,33 @@ int* heapSort(int* A, int n) {
     return A;
     // write code here
 }
+
+/*
+
+ int* heapSort(int* A, int n) {
+ // write code here
+ for (int i = n - 1; i > 0; i--) {
+ buildheap(A, i);
+ swap(A[0], A[i]);
+ }
+ return A;
+ }
+ 
+ 
+ void buildheap(int* A, int n) {
+ for (int i = (n - 1) / 2; i >= 0; i--) {
+ int left = i * 2 + 1;
+ int right = i * 2 + 2;
+ int larger = 0;
+ if (right <= n)
+ larger = (A[left] > A[right]) ? left : right;
+ else if (left <= n)
+ larger = left;
+ else
+ continue;
+ if (A[i] < A[larger])
+ swap(A[i], A[larger]);
+ }
+ }
+ 
+*/
