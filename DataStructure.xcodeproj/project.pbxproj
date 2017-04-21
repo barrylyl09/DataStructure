@@ -12,6 +12,7 @@
 		240BA8261E76FFC60049615A /* 选择排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 240BA8251E76FFC60049615A /* 选择排序.c */; };
 		240BA8281E76FFDC0049615A /* 插入排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 240BA8271E76FFDC0049615A /* 插入排序.c */; };
 		240BA82A1E76FFED0049615A /* 归并排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 240BA8291E76FFED0049615A /* 归并排序.c */; };
+		241E21B51EAA128500DA0274 /* 计数排序算法.c in Sources */ = {isa = PBXBuildFile; fileRef = 241E21B41EAA128500DA0274 /* 计数排序算法.c */; };
 		243D13531E860E7900FB0717 /* 快速排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 243D13521E860E7900FB0717 /* 快速排序.c */; };
 		244EF57F1EA0D10400D4C275 /* 希尔排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 244EF57E1EA0D10400D4C275 /* 希尔排序.c */; };
 		246AD32A1E70DC9F00B8474B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3291E70DC9F00B8474B /* main.c */; };
@@ -40,6 +41,7 @@
 		240BA8251E76FFC60049615A /* 选择排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "选择排序.c"; sourceTree = "<group>"; };
 		240BA8271E76FFDC0049615A /* 插入排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "插入排序.c"; sourceTree = "<group>"; };
 		240BA8291E76FFED0049615A /* 归并排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "归并排序.c"; sourceTree = "<group>"; };
+		241E21B41EAA128500DA0274 /* 计数排序算法.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "计数排序算法.c"; sourceTree = "<group>"; };
 		243D13521E860E7900FB0717 /* 快速排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "快速排序.c"; sourceTree = "<group>"; };
 		244EF57E1EA0D10400D4C275 /* 希尔排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "希尔排序.c"; sourceTree = "<group>"; };
 		246AD3261E70DC9F00B8474B /* DataStructure */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataStructure; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,6 +96,7 @@
 				2481F7B81E968BBF0068BCD0 /* 堆排序.c */,
 				2481F7DA1E97A67F0068BCD0 /* 找出最快赛车.c */,
 				244EF57E1EA0D10400D4C275 /* 希尔排序.c */,
+				241E21B41EAA128500DA0274 /* 计数排序算法.c */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				246AD3361E70DFDF00B8474B /* Clock_tick.c in Sources */,
 				240BA82A1E76FFED0049615A /* 归并排序.c in Sources */,
 				246AD3341E70DCF300B8474B /* 多项式计算.c in Sources */,
+				241E21B51EAA128500DA0274 /* 计数排序算法.c in Sources */,
 				240BA8261E76FFC60049615A /* 选择排序.c in Sources */,
 				240BA8221E75AB660049615A /* 比较版本号问题-OC版.m in Sources */,
 				240BA8241E75ABC80049615A /* 冒泡排序.c in Sources */,
