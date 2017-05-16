@@ -15,6 +15,7 @@
 		241E21B51EAA128500DA0274 /* 计数排序算法.c in Sources */ = {isa = PBXBuildFile; fileRef = 241E21B41EAA128500DA0274 /* 计数排序算法.c */; };
 		243D13531E860E7900FB0717 /* 快速排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 243D13521E860E7900FB0717 /* 快速排序.c */; };
 		244EF57F1EA0D10400D4C275 /* 希尔排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 244EF57E1EA0D10400D4C275 /* 希尔排序.c */; };
+		2450A6A11ECB0BCA003E8FB3 /* 三色排序问题.c in Sources */ = {isa = PBXBuildFile; fileRef = 2450A6A01ECB0BCA003E8FB3 /* 三色排序问题.c */; };
 		246AD32A1E70DC9F00B8474B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3291E70DC9F00B8474B /* main.c */; };
 		246AD3341E70DCF300B8474B /* 多项式计算.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3331E70DCF300B8474B /* 多项式计算.c */; };
 		246AD3361E70DFDF00B8474B /* Clock_tick.c in Sources */ = {isa = PBXBuildFile; fileRef = 246AD3351E70DFDF00B8474B /* Clock_tick.c */; };
@@ -44,6 +45,7 @@
 		241E21B41EAA128500DA0274 /* 计数排序算法.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "计数排序算法.c"; sourceTree = "<group>"; };
 		243D13521E860E7900FB0717 /* 快速排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "快速排序.c"; sourceTree = "<group>"; };
 		244EF57E1EA0D10400D4C275 /* 希尔排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "希尔排序.c"; sourceTree = "<group>"; };
+		2450A6A01ECB0BCA003E8FB3 /* 三色排序问题.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "三色排序问题.c"; sourceTree = "<group>"; };
 		246AD3261E70DC9F00B8474B /* DataStructure */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataStructure; sourceTree = BUILT_PRODUCTS_DIR; };
 		246AD3291E70DC9F00B8474B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		246AD3331E70DCF300B8474B /* 多项式计算.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "多项式计算.c"; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				2481F7DA1E97A67F0068BCD0 /* 找出最快赛车.c */,
 				244EF57E1EA0D10400D4C275 /* 希尔排序.c */,
 				241E21B41EAA128500DA0274 /* 计数排序算法.c */,
+				2450A6A01ECB0BCA003E8FB3 /* 三色排序问题.c */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				240BA8241E75ABC80049615A /* 冒泡排序.c in Sources */,
 				246AD32A1E70DC9F00B8474B /* main.c in Sources */,
 				246AD33D1E71425700B8474B /* 灯颜色问题.c in Sources */,
+				2450A6A11ECB0BCA003E8FB3 /* 三色排序问题.c in Sources */,
 				240BA8281E76FFDC0049615A /* 插入排序.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
